@@ -1,0 +1,27 @@
+:root {
+  font-family: 'Space Grotesk', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #f8f7ff;
+  background-color: #05030c;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-color: #05030c;
+  color: #f8f7ff;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
